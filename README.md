@@ -8,7 +8,7 @@ Mi nombre es Matias Maravi y soy estudiante de **Ciencias de la computacion** en
 - :open_mouth: Soy una persona muy responsable y optimista :smile:
 - :cake: Mi postre favorito es el pie de manzana :apple:
 - :fire: No me gusta el picante ni las peliculas de terror :scream:
-- :tired_face: Odio el alcohol me da mucho asco :dizzy_face:
+- :tired_face: No me gusta el alcohol :dizzy_face:
 - :musical_note: El genero de musica que mas me gusta es el rock :rocket:
 
 ### Mi canal de youtube:
