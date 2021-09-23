@@ -4,7 +4,7 @@ Mi nombre es Matias Maravi y soy estudiante de **Ciencias de la computacion** en
 
 ### Les contare un poco sobre mi :smiley:
 
-- :video_game: Soy campeón de DOTA 2 :joy:
+- :video_game: Me gusta jugar DOTA 2 :joy:
 - :open_mouth: Soy una persona muy responsable y optimista :smile:
 - :cake: Mi postre favorito es el pie de manzana :apple:
 - :fire: No me gusta el picante ni las peliculas de terror :scream:
