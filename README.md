@@ -16,7 +16,7 @@ Mi nombre es Matias Maravi y soy estudiante de **Ciencias de la computacion** en
 ### **Información de contacto**
 
 <center>
-<a href="https://www.facebook.com/matias.maravi.anyosa">   <img src = "https://image.flaticon.com/icons/svg/174/174848.svg" alt = "texto alternativo" width = " 40 "altura =" 40 "& nbsp; & nbsp;></a><a href="https://twitter.com/daddymat1u5">   <img src = "https://cdn-icons-png.flaticon.com/512/124/124021.png" alt = "texto alternativo" width = " 40 "altura =" 40 "> </a> <a href="https://www.youtube.com/channel/UCBPS19q4sjx4YjBx68G8xEw">   <img src = "https://cdn-icons-png.flaticon.com/512/174/174883.png" alt = "texto alternativo" width = " 40 "altura =" 40 "> </a>
+<a href="https://www.facebook.com/matias.maravi.anyosa">   <img src = "https://image.flaticon.com/icons/svg/174/174848.svg" alt = "texto alternativo" width = " 40 "altura =" 40 "& nbsp; & nbsp;></a><a href="https://twitter.com/daddymat1u5">   <img src = "https://cdn-icons-png.flaticon.com/512/124/124021.png" alt = "texto alternativo" width = " 40 "altura =" 40 "> </a> <a href="https://www.youtube.com/channel/UCBPS19q4sjx4YjBx68G8xEw">   <img src = "https://cdn-icons-png.flaticon.com/512/174/174883.png" alt = "texto alternativo" width = " 40 "altura =" 40 "> </a><a href="https://steamcommunity.com/profiles/76561198129540886/">   <img src = "https://icon-library.com/images/flat-steam-icon/flat-steam-icon-19.jpg" alt = "texto alternativo" width = " 60 "altura =" 60 "& nbsp; & nbsp;></a>
 
 
 
