@@ -3,6 +3,7 @@
 Mi nombre es Matias Maravi y soy estudiante de **Ciencias de la computacion** en la **UTEC**
 
 ### Les contare un poco sobre mi :smiley:
+<img align="right" alt="img" src="https://media1.giphy.com/media/eHKM1zH4JBMk/giphy.gif?cid=ecf05e47a4qi76m7boz1f7y4ilceeabrqvbfn3yjjfv95voe&rid=giphy.gif&ct=g" width="50%" height="auto" />
 
 - :video_game: Me gusta jugar DOTA 2 :joy:
 - :open_mouth: Soy una persona muy responsable y optimista :smile:
@@ -11,14 +12,12 @@ Mi nombre es Matias Maravi y soy estudiante de **Ciencias de la computacion** en
 - :tired_face: No me gusta el alcohol :dizzy_face:
 - :musical_note: El genero de musica que mas me gusta es el rock :rocket:
 
-### Mi canal de youtube:
-![This is an image](https://img1.freepng.es/20180719/ufx/kisspng-youtube-logo-clip-art-logo-youtube-png-5b509f3852b108.1652839715320102963387.jpg)
-https://www.youtube.com/channel/UCBPS19q4sjx4YjBx68G8xEw
 
+### **Información de contacto**
 
-### Facebook:
-![This is an image](https://img1.freepng.es/20180516/kze/kisspng-facebook-f8-facebook-like-button-facebook-inc-5afce326c2a9c6.8493654415265226627973.jpg)
-https://www.facebook.com/matias.maravi.anyosa
+<center>
+<a href="https://www.facebook.com/matias.maravi.anyosa">   <img src = "https://image.flaticon.com/icons/svg/174/174848.svg" alt = "texto alternativo" width = " 40 "altura =" 40 "& nbsp; & nbsp;></a><a href="https://twitter.com/daddymat1u5">   <img src = "https://cdn-icons-png.flaticon.com/512/124/124021.png" alt = "texto alternativo" width = " 40 "altura =" 40 "> </a> <a href="https://www.youtube.com/channel/UCBPS19q4sjx4YjBx68G8xEw">   <img src = "https://cdn-icons-png.flaticon.com/512/174/174883.png" alt = "texto alternativo" width = " 40 "altura =" 40 "> </a>
+
 
 
 
