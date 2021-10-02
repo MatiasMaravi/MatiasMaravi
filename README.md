@@ -3,7 +3,7 @@
 Mi nombre es Matias Maravi y soy estudiante de **Ciencias de la computacion** en la **UTEC**
 ---
 ### Les contare un poco sobre mi <img align="center" alt="img" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="3%" height="auto" /> 
-<img align="right" alt="img" src="https://media1.giphy.com/media/eHKM1zH4JBMk/giphy.gif?cid=ecf05e47a4qi76m7boz1f7y4ilceeabrqvbfn3yjjfv95voe&rid=giphy.gif&ct=g" width="38%" height="auto" />
+<img align="right" alt="img" src="https://media1.giphy.com/media/eHKM1zH4JBMk/giphy.gif?cid=ecf05e47a4qi76m7boz1f7y4ilceeabrqvbfn3yjjfv95voe&rid=giphy.gif&ct=g" width="45%" height="auto" />
 
 - :video_game: Me gusta jugar *DOTA 2* <img align="center" alt="img" src="https://i.pinimg.com/originals/8a/8b/50/8a8b50da2bc4afa933718061fe291520.jpg" width="3%" height="auto" />
 - :open_mouth: Soy una persona muy responsable y optimista :smile:
