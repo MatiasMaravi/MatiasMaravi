@@ -7,10 +7,10 @@ Mi nombre es Matias Maravi y soy estudiante de **Ciencias de la computacion** en
 
 - :video_game: Me gusta jugar *DOTA 2* <img align="center" alt="img" src="https://i.pinimg.com/originals/8a/8b/50/8a8b50da2bc4afa933718061fe291520.jpg" width="3%" height="auto" />
 - :open_mouth: Soy una persona muy responsable y optimista :smile:
-- :cake: Mi postre favorito es el pie de manzana :apple:
+- :computer: El lenguaje de programacion que mas domino es Python <img align="center" alt="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="3%" height="auto" />
 - :fire: No me gusta el picante ni las peliculas de terror :scream:
 - :tired_face: No me gusta el alcohol :dizzy_face:
-- :musical_note: La banda de musica que mas me gusta es el **"Cuarteto de Nos"** 
+- :musical_note: La banda de musica que mas me gusta es **"El Cuarteto de Nos"** 
 <right>
 <a href="https://www.youtube.com/watch?v=y9LlnLTH87U">   <img src = "https://i.pinimg.com/originals/b2/94/60/b294605a923302c9973e3e5ed6d1a77e.jpg" alt = "texto alternativo" width="15%" height="auto"& nbsp; & nbsp;></a>
 
