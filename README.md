@@ -5,9 +5,9 @@ Mi nombre es Matias Maravi y soy estudiante de **Ciencias de la computacion** en
 ### Les contare un poco sobre mi <img align="center" alt="img" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="3%" height="auto" /> 
 <img align="right" alt="img" src="https://media1.giphy.com/media/eHKM1zH4JBMk/giphy.gif?cid=ecf05e47a4qi76m7boz1f7y4ilceeabrqvbfn3yjjfv95voe&rid=giphy.gif&ct=g" width="43%" height="auto" />
 
-- :video_game: Me gusta jugar *DOTA 2* <img align="center" alt="img" src="https://i.pinimg.com/originals/8a/8b/50/8a8b50da2bc4afa933718061fe291520.jpg" width="3%" height="auto" />
+- :video_game: Me gusta jugar *DOTA 2* <a href="https://steamcommunity.com/profiles/76561198129540886/"> </a> <img align="center" alt="img" src="https://cdn-icons-png.flaticon.com/512/588/588308.png" width="5%" height="auto" />
 - :open_mouth: Soy una persona muy responsable y optimista :smile:
-- :computer: El lenguaje de programacion que mas domino es Python <img align="center" alt="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="3%" height="auto" />
+- :computer: El lenguaje de programacion que mas domino es Python <img align="center" alt="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="5%" height="auto" />
 - :fire: No me gusta el picante ni las peliculas de terror :scream:
 - :musical_note: La banda de musica que mas me gusta es **"El Cuarteto de Nos"** 
 <right>
@@ -17,8 +17,7 @@ Mi nombre es Matias Maravi y soy estudiante de **Ciencias de la computacion** en
 ## **Redes Sociales**
 
 <center>
-<a href="https://www.facebook.com/matias.maravi.anyosa">   <img src = "https://cdn-icons-png.flaticon.com/512/1384/1384879.png" alt = "texto alternativo" width = " 40 "altura =" 40 "& nbsp; & nbsp;></a><a href="https://twitter.com/daddymat1u5">   <img src = "https://cdn-icons-png.flaticon.com/512/733/733579.png" alt = "texto alternativo" width = " 40 "altura =" 40 "> </a> <a href="https://www.youtube.com/channel/UCBPS19q4sjx4YjBx68G8xEw">   <img src = "https://cdn-icons-png.flaticon.com/512/1383/1383260.png" alt = "texto alternativo" width = " 40 "altura =" 40 "> </a><a href="https://steamcommunity.com/profiles/76561198129540886/">   <img src = "https://icon-library.com/images/flat-steam-icon/flat-steam-icon-19.jpg" alt = "texto alternativo" width = " 60 "altura =" 60 "& nbsp; & nbsp;></a>
-
+<a href="https://www.facebook.com/matias.maravi.anyosa">   <img src = "https://cdn-icons-png.flaticon.com/512/1384/1384879.png" alt = "texto alternativo" width = " 70 "altura =" 70 "& nbsp; & nbsp;></a><a href="https://twitter.com/daddymat1u5">   <img src = "https://cdn-icons-png.flaticon.com/512/1383/1383265.png" alt = "texto alternativo" width = "70" altura =" 70 "> </a> <a href="https://www.youtube.com/channel/UCBPS19q4sjx4YjBx68G8xEw">   <img src = "https://cdn-icons-png.flaticon.com/512/1383/1383260.png" alt = "texto alternativo" width = " 70 "altura =" 70 "> </a>
 
 
 
