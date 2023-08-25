@@ -1,8 +1,6 @@
 <h2 align="center">👋 Hi everyone</h2>
 
-<hr/>
-
-<img align='right' src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' width='20%'>  
+<img align='right' src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' width='18%'>  
 
 {
 
@@ -13,8 +11,6 @@
   *  🎮 `Favorite game`: **Dota 2**<a href="https://steamcommunity.com/profiles/76561198129540886/"> </a> <img align="center" alt="img" src="https://cdn-icons-png.flaticon.com/512/588/588308.png" width="3%" height="auto" />
 
 }
-
-<br/>
 
 <h2 align="center">☕ Statistics</h2>
 
