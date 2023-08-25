@@ -1,24 +1,28 @@
-# Hola a Todos! :sunglasses:
----
-Mi nombre es Matias Maravi y soy estudiante de **Ciencias de la computacion** en la **UTEC**
----
-### Les contare un poco sobre mi <img align="center" alt="img" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="3%" height="auto" /> 
-<img align="right" alt="img" src="https://media1.giphy.com/media/eHKM1zH4JBMk/giphy.gif?cid=ecf05e47a4qi76m7boz1f7y4ilceeabrqvbfn3yjjfv95voe&rid=giphy.gif&ct=g" width="43%" height="auto" />
+<h2 align="center">👋 Hi everyone</h2>
 
-- :video_game: Me gusta jugar *DOTA 2* <a href="https://steamcommunity.com/profiles/76561198129540886/"> </a> <img align="center" alt="img" src="https://cdn-icons-png.flaticon.com/512/588/588308.png" width="5%" height="auto" />
-- :open_mouth: Soy una persona muy responsable y optimista :smile:
-- :computer: El lenguaje de programacion que mas domino es Python <img align="center" alt="img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="5%" height="auto" />
-- :fire: No me gusta el picante ni las peliculas de terror :scream:
-- :musical_note: La banda de musica que mas me gusta es **"El Cuarteto de Nos"** 
-<right>
-<a href="https://www.youtube.com/watch?v=2tQVGWh04fc">   <img src = "https://i.pinimg.com/originals/b2/94/60/b294605a923302c9973e3e5ed6d1a77e.jpg" alt = "texto alternativo" width="15%" height="auto"& nbsp; & nbsp;></a>
+<img align='right' src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' width='18%'>  
 
----
-## **Redes Sociales**
+{
 
-<center>
-<a href="https://www.facebook.com/matias.maravi.anyosa">   <img src = "https://cdn-icons-png.flaticon.com/512/1384/1384879.png" alt = "texto alternativo" width = " 70 "altura =" 70 "& nbsp; & nbsp;></a><a href="https://twitter.com/daddymat1u5">   <img src = "https://cdn-icons-png.flaticon.com/512/1383/1383265.png" alt = "texto alternativo" width = "70" altura =" 70 "> </a> <a href="https://www.youtube.com/channel/UCBPS19q4sjx4YjBx68G8xEw">   <img src = "https://cdn-icons-png.flaticon.com/512/1383/1383260.png" alt = "texto alternativo" width = " 70 "altura =" 70 "> </a>
+  *  😎 `My name is`: **MATIUS**,
+  *  ⚡ `I'm`: **19 years old**,
+  *  💻 `Career`: **Computer Science**,
+  *  📖 `Cycle`: **5th**
+  *  🎮 `Favorite game`: **Dota 2**<a href="https://steamcommunity.com/profiles/76561198129540886/"> </a> <img align="center" alt="img" src="https://cdn-icons-png.flaticon.com/512/588/588308.png" width="3%" height="auto" />
 
+}
 
+<h2 align="center">☕ Statistics</h2>
 
-Margiory estuvo aquí😁✌🏻
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MatiasMaravi&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000001">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasMaravi&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=MatiasMaravi&theme=material-palenight&hide_border=true&background=FFFFFF00">
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MatiasMaravi&theme=tokyonight"/>
+</p>
+
+<h2 align="center">📌 Pinned Repositories</h2>
+<p align="center">Take a look at my most outstanding repositories.</p>
